@@ -8,7 +8,7 @@ The CAD is to be printed in 2 parts, the top plate, and the actual container.
 
 The PCB is based apon the AGENT Aurum theme and has the periodic symbol of Gold!
 
-<img width="650" height="485" alt="Screenshot 2026-09-19 at 7 40 54 PM" src="https://github.com/user-attachments/assets/3187beba-a65e-43c0-ad09-48cea535ccdf" />
+<img width="702" height="546" alt="Screenshot 2026-09-19 at 10 21 25 PM" src="https://github.com/user-attachments/assets/09e1847b-247b-45de-acc1-985a8ef72fbf" />
 <img width="594" height="355" alt="Screenshot 2026-09-19 at 7 33 36 PM" src="https://github.com/user-attachments/assets/ea0aa445-bc14-4926-a0fd-337148b9f19f" />
 <img width="1065" height="573" alt="Screenshot 2026-09-29 at 11 15 37 AM" src="https://github.com/user-attachments/assets/a3d58194-7fb4-431a-8388-c1f20b011cba" />
 <img width="447" height="182" alt="Screenshot 2026-09-29 at 11 35 27 AM" src="https://github.com/user-attachments/assets/130d635a-c11e-41b0-9a1e-050d8b51a628" />
